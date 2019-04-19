@@ -2,7 +2,10 @@
 
 ## This project addresses 3 basic questions - what ENS names are bought? The buyers, did they do anything else? (Transactions before and after the payment to ENS contract)
 
-SQL codes are listed and you can run them directly at Google BigQuery or Kaggle, <font color="red> please note Google renamed dataset
+SQL codes are listed and you can run them directly at [Google BigQuery](
+https://console.cloud.google.com/bigquery?sq=5573265063:2504c27734ea4692b24bc572f94968bd) [Query2](
+https://console.cloud.google.com/bigquery?sq=5573265063:2504c27734ea4692b24bc572f94968bd
+) or [Kaggle](https://www.kaggle.com/takewindmoon/analysis-of-ethernamingservice), <span style="color:red"> please note Google renamed dataset</span>
 
 ## Judging Criteria 
 
