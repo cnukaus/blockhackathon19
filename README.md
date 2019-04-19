@@ -5,7 +5,7 @@
 SQL codes are listed and you can run them directly at [Google BigQuery](
 https://console.cloud.google.com/bigquery?sq=5573265063:2504c27734ea4692b24bc572f94968bd) [Query2](
 https://console.cloud.google.com/bigquery?sq=5573265063:2504c27734ea4692b24bc572f94968bd
-) or [Kaggle](https://www.kaggle.com/takewindmoon/analysis-of-ethernamingservice), <span style="color:red"> please note Google renamed dataset</span>
+) or [Kaggle](https://www.kaggle.com/takewindmoon/analysis-of-ethernamingservice), <span style="color:red"> please note Google renamed dataset to crypto_ethereum, so most existing Kaggle kernels won't work as they refer to old naming.</span>
 
 ## Judging Criteria 
 
