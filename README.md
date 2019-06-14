@@ -1,3 +1,7 @@
+# 14th June 19
+
+:.1 各已上市未上市艺术链, 2. minecraft
+
 # blockhackathon19
 
 ## This project addresses 3 basic questions - what ENS names are bought? The buyers, did they do anything else? (Transactions before and after the payment to ENS contract)
