@@ -1,0 +1,12 @@
+写个合约，用 codesize(address) 去查，然后做成 batch 的
+
+*/
+    function isContract(address account) internal view returns (bool) {
+        // This method relies on extcodesize/address.code.length, which returns 0
+        // for contracts in construction, since the code is only stored at the end
+        // of the constructor execution.
+
+        return account.code.length > 0;
+    }
+
+这里源代码里是依据return account.code.length > 0;
